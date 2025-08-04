@@ -1,2 +1,2 @@
 # C.P.RStudio-
-En este repositorio se presenta el caso practico del software RStudio poniendo en practica las funciones que se estudiaron durante el Diplomado de Análisis de datos utilizando el software RStudio
+En este repositorio se presentan los casos practicos que se tomaran en cuenta  para evaluar lo aprendido durante las clases, poniendo en practica las funciones que se estudiaron durante el Diplomado de Análisis de datos utilizando el software RStudio. Los Datos que se usaron corresponden a una base de datos que viene incluida ya en el software, se utilizaron funciones que se encuentran en el paquete de Tydiverse y se trabajo con el operadoder pipe para lograr anidar varias funciones en un mismo codigo.
